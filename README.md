@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharad</h1>
-<h3 align="center">A Developer & Founder at Graftini</h3>
+<h3 align="center">Developer & Founder at Graftini</h3>
 
 - 🔭 I’m currently working on [Graftini](https://www.graftini.com/)
 
