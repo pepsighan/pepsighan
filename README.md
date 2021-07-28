@@ -9,10 +9,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Announcement - Graftini Early Access Release](https://blog.graftini.com/announcement-graftini-early-access-release)
 - [How to change numeric input by dragging in React?](https://blog.graftini.com/how-to-change-numeric-input-by-dragging-in-react)
 - [Rendering in an iframe in a React app](https://blog.graftini.com/rendering-in-an-iframe-in-a-react-app)
 - [Why we chose UUID over SERIAL in PostgreSQL?](https://blog.graftini.com/why-we-chose-uuid-over-serial-in-postgresql)
-- [What is Graftini?](https://blog.graftini.com/what-is-graftini)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
