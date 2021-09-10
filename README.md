@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Graftini](https://www.graftini.com/)
 
-- 📝 I regularly write articles on [blog.graftini.com](https://blog.graftini.com)
+- 📝 I regularly write articles on [blog.sharadchand](https://blog.sharadchand.com) and [blog.graftini.com](https://blog.graftini.com)
 
 - 📫 How to reach me **pepsighan@sharadchand.com**
 
