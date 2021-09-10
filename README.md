@@ -7,14 +7,6 @@
 
 - 📫 How to reach me **pepsighan@sharadchand.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [Now deploy no-code projects using provided templates in Graftini](https://blog.graftini.com/now-deploy-no-code-projects-using-provided-templates-in-graftini)
-- [Announcement - Graftini Early Access Release](https://blog.graftini.com/announcement-graftini-early-access-release)
-- [How to change numeric input by dragging in React?](https://blog.graftini.com/how-to-change-numeric-input-by-dragging-in-react)
-- [Rendering in an iframe in a React app](https://blog.graftini.com/rendering-in-an-iframe-in-a-react-app)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/pepsighan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pepsighan" height="30" width="40" /></a>
