@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharad</h1>
-<h3 align="center">Developer & Founder at Graftini</h3>
 
-- 🔭 I’m currently working on [Graftini](https://www.graftini.com/)
-
-- 📝 I regularly write articles on [blog.sharadchand](https://blog.sharadchand.com) and [blog.graftini.com](https://blog.graftini.com)
+- 📝 I regularly write articles on [blog.sharadchand](https://blog.sharadchand.com)
 
 - 📫 How to reach me **pepsighan@sharadchand.com**
 
