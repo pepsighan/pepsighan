@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sharad</h1>
 
-- 📝 I regularly write articles on [blog.sharadchand](https://blog.sharadchand.com)
+- 📝 I write articles on [blog.sharadchand](https://blog.sharadchand.com)
 
 - 📫 How to reach me **pepsighan@sharadchand.com**
 
